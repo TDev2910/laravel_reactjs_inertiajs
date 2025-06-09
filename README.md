@@ -30,6 +30,7 @@ No Need for API
 All interactions happen through standard Laravel routes and controllers — no separate REST API is required.
 
 Documentation
+
 Laravel + Vite + React: https://laravel.com/docs/11.x/vite#react
 
 InertiaJS Docs: https://inertiajs.com/pages
